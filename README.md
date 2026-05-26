@@ -52,7 +52,6 @@ Then open [http://localhost:5173](http://localhost:5173) in your browser.
 pnpm dev        # Start development server
 pnpm build      # Build for production
 pnpm preview    # Preview production build
-pnpm lint       # Run ESLint
 ```
 
 ## Contributing
